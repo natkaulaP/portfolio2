@@ -50,4 +50,19 @@
 }
 .i-right{
   flex:1;
+  position:relative;
+}
+.img-1{
+  width: 250px;
+height: 250px;
+
+}
+.img-2{
+width: 4rem;
+height: 4rem;
+left: 80%;
+}
+.i-right>*{
+  position:absolute;
+  z-index:1;
 }

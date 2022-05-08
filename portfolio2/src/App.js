@@ -1,6 +1,6 @@
 import './App.css';
-import Navbar from './Navbar.jsx';
-import Intro from './Intro.jsx';
+import Navbar from './Navbar.js';
+import Intro from './Intro.js';
 
 function App() {
   return (
